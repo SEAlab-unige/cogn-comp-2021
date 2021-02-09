@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PolarityClassificationUsingSaliency</string>
+
+    <!-- Widgets -->
+    <string name="load_test_from_asset">Load test set</string>
+    <string name="load_test_from_storage">Load image from storage</string>
+    <string name="polarity_classifier">Polarity classifier</string>
+    <string name="saliency_detector">Saliency detector</string>
+    <string name="inference">Inference</string>
+    <string name="inference_time">Inference time</string>
+    <string name="inference_result">Inference result</string>
+    <string name="inference_confidence">Inference confidence</string>
+    <string name="initial_value">________</string>
+    <string name="milliseconds">ms</string>
+    <string name="percentage">%</string>
+
+    <!-- Methods -->
+    <string name="retrieve_images_from_asset">retrieveImages</string>
+    <string name="retrieve_image_from_storage">retrieveImageFromStorage</string>
+    <string name="run_inference">runInference</string>
+
+</resources>
