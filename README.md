@@ -16,6 +16,7 @@ This repository concerns the experimental campaign of the paper **"Design and De
 ## Python project
 ### Requirements
 The requirements to run the python code are the following:
+* Python 3.6
 * Tensorflow 1.14
 * Tensorflow Slim
 * Tensorflow Object Detection API
